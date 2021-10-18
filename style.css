@@ -1,0 +1,35 @@
+* {
+    padding: 0px;
+    margin: 0;
+}
+
+html {
+    padding: 8px 25px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+/* TEXTOS H1 */
+h1 {
+    font-size: 30px;
+    text-align: justify;
+}
+
+h2{
+    font-size: 20px;
+    color: grey;
+}
+/* TABLAS */
+table {
+    margin-top: 10px;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+table, tr {
+    border: 2px solid black;
+}
+
+table, tr, th {
+    border: 1px solid;
+}
